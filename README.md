@@ -1,4 +1,4 @@
-# Solar-Power-Prediction-of-Nagpur-using-AI
+# Solar-Power-Prediction-of-Nagpur-using-AI(all description is in RES Solar mine.pdf)
 AIM:  To predict the solar power generation capacity of a location using Machine Learning algorithms and statistical methods.
 OBJECTIVES: 
 1) To study the given dataset 
